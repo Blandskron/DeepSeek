@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI(
 	base_url="https://api-inference.huggingface.co/v1/",
-	api_key="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"
+	api_key="----"
 )
 
 messages = [
